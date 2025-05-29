@@ -13,5 +13,5 @@ A simple React app to help track daily tasks. You can **add**, **delete**, and *
 ## 🛠️ Tech Stack
 
 - React.js
-- CSS or Tailwind (based on your setup)
+- CSS
 - JavaScript
