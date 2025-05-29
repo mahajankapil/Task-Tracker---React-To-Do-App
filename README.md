@@ -2,6 +2,9 @@
 
 A simple React app to help track daily tasks. You can **add**, **delete**, and **mark tasks as done**. Built to practice **React state management** and **UI design**, this app helps keep your to-do list organized and easy to use.
 
+## 🚀 Live link - 
+https://task-tracker-pi-one.vercel.app/
+
 ## 🚀 Features
 
 - 📝 Add new tasks
